@@ -1,0 +1,185 @@
+@import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@1,400;1,500;1,600;1,700&family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Montserrat:ital,wght@0,400;0,600;1,400;1,500&family=Outfit:wght@200;300;400;500&family=Poppins:ital,wght@0,200;0,300;0,500;1,300;1,400&display=swap");
+
+section {
+  font-family: "Bai Jamjuree", sans-serif;
+  font-family: "Lato", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Outfit", sans-serif;
+  font-family: "Poppins", sans-serif;
+  overflow-x: hidden;
+  padding-top: 10px;
+
+  background-color: #000000;
+}
+
+body {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+* {
+  background-color: #000000;
+}
+
+.profile {
+  width: 16rem;
+  height: 16rem;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.logo {
+  width: 3rem;
+  object-fit: cover;
+}
+
+.frontend {
+  color: rgb(255, 230, 6);
+}
+.design {
+  color: rgb(255, 0, 183);
+}
+.coding {
+  color: rgb(255, 98, 41);
+}
+
+.textt {
+  opacity: 0.8;
+}
+
+.cv {
+  color: rgb(128, 255, 0);
+  background-color: transparent;
+  opacity: 0.8;
+}
+
+.about-color {
+  color: #5f8670;
+}
+
+.bachelor-color {
+  color: #b15eff;
+}
+
+.bachelor-sub-color {
+  color: #ff6969;
+}
+
+.text-inter {
+  color: #a6ff96;
+}
+
+.text-sub-inter {
+  color: #eac696;
+}
+
+.css-header {
+  color: #00a9ff;
+}
+
+.html-header {
+  color: #ff7129;
+}
+
+.js-header {
+  color: rgb(251, 251, 54);
+}
+
+.html-img {
+  width: 30%;
+}
+
+.css-img {
+  width: 20%;
+}
+
+.js-img {
+  width: 40%;
+}
+
+.boot {
+  width: 22%;
+}
+
+.java {
+  width: 20%;
+}
+
+.sql {
+  width: 27%;
+  padding: 20px;
+}
+
+.sqlw {
+  color: #3915dd;
+}
+
+.java-header {
+  color: #ffa33c;
+}
+
+.boot-header {
+  color: #7b0ae5;
+}
+
+.html-text {
+  text-align: center;
+}
+
+.hover-eff {
+  transition: 1s;
+}
+
+.hover-eff:hover {
+  transform: translateY(-15px);
+}
+
+.skilss {
+  color: #ff6ac2;
+}
+
+#about {
+  padding-top: 50px;
+}
+
+#skills {
+  padding-top: 50px;
+}
+
+#projects {
+  padding-top: 70px;
+}
+
+.spot {
+  width: 40%;
+}
+
+.clone {
+  color: rgb(6, 255, 6);
+}
+
+.digital {
+  color: #27f580;
+}
+
+.fool {
+  color: rgb(255, 167, 15);
+}
+
+.veg {
+  color: rgb(0, 251, 255);
+}
+
+.con-text {
+  color: #69dcf9;
+}
+
+.btncon {
+  width: 100%;
+}
+
+.btn5 {
+  outline: none;
+  border: 2px solid #000000;
+  border-radius: 15px;
+}
